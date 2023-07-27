@@ -1,0 +1,2 @@
+# Interview_Question_web_Application
+ SoftZone boasts an extensive and carefully curated question bank encompassing a wide array of programming languages, including JavaScript, Python, Django, React, C++, and Java. Our platform is built using cutting-edge Django technologies, ensuring a seamless and secure user experience. Rest assured that your data and progress are protected with the highest level of security measures.
